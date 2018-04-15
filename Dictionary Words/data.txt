@@ -1,0 +1,14 @@
+MEANING:
+facts or information used usually to calculate, analyze, or plan something
+this is a noun
+
+FULL DEFINITION:
+1) factual information (as measurements or statistics) used as a basis for reasoning, discussion, or calculation <the data is plentiful and easily available — H. A. Gleason, Jr.> <comprehensive data on economic growth have been published — N. H. Jacoby>
+
+2) information output by a sensing device or organ that includes both useful and irrelevant or redundant information and must be processed to be meaningful
+
+3) information in numerical form that can be digitally transmitted or processed
+
+EXAMPLES:
+I rechecked the data. 
+I've analyzed the data. 
